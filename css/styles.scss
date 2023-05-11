@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h3{
+  color: orange;
+  padding: 1rem 0;
+  font-family: 'Carlito', sans-serif;
+}
+
+.navbar{
+  background-color: green;
+  font-family: 'Carlito', sans-serif;
+  font-size: 0.9rem;
+  padding: 1rem 2rem;
+ 
+
+}
+
+.cover-page{
+  background-image: url(/images/co.jpg);
+  background-size: cover;
+  color: white;
+
+  .bold{
+    padding: 30% 2rem 0;
+    width: 90%;
+    font-size: 3rem;
+    font-weight: 450;
+    font-family: 'Merriweather', serif;
+  
+  }
+
+  .red-page{
+    background-color: rgb(158, 3, 3);
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    margin: 0 5%;
+   
+  }
+ 
+  .big-font {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+}
+
+
+#about{
+  padding: 10% 5%;
+
+  .abt-page{
+    padding-bottom: 5%;
+  }
+
+  .about{
+    padding: 10% 0 0 0;
+  }
+
+  .colabo{
+    text-align: center;
+  }
+
+ 
+
+}
+
+
+#footer{
+  text-align: center;
+  padding-top: 50%;
+}
